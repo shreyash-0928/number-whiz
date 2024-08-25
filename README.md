@@ -24,9 +24,9 @@ Users are able to:
 
 ### Screenshot
 
-![screenshot of the subtraction level](</src/assets/Screenshot%20(188).png>)
-![screenshot of the multiplication level](</src/assets/Screenshot%20(190).png>)
-![screenshot of the multiplication score page](</src/assets/Screenshot%20(191).png>)
+![screenshot of the subtraction level](</src/assets/screenshot1.png>)
+![screenshot of the multiplication level](</src/assets/screenshot2.png>)
+![screenshot of the multiplication score page](</src/assets/screenshot3.png>)
 
 ### Link
 

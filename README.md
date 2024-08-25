@@ -8,7 +8,7 @@
 
 ## Overview
 
-Mathivities is a web based mathematics games that aims to teach children(within the age of 1-8) about basic mathematical operations(addition, subtraction, division and multiplication)
+Number Whiz is an exciting online game aimed at boosting the math skills of children aged 7 to 10. With captivating and enjoyable math challenges, young learners can improve their abilities while having fun throughout the learning journey.
 
 ### Features
 
@@ -30,14 +30,13 @@ Users are able to:
 
 ### Link
 
-- Live Site URL: [Number Whiz](https://mathivities.netlify.app/)
+- Live Site URL: [Number Whiz](https://number-whiz.netlify.app/)
 
 ### Built with
 
 - JSX
 - CSS custom properties
 - ReactJS
-
 
 ## Author
 
